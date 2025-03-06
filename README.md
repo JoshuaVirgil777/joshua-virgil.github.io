@@ -1,4 +1,4 @@
-# 🚀 Joshua Virgil - Data ethusiasist
+# Joshua Virgil - Data ethusiasist
 
 🎯 Passionate about Data Analytics, ETL Pipelines, and Business Intelligence  
 📊 Skilled in Python, SQL, Power BI, Tableau, and AWS  
@@ -32,7 +32,7 @@
 ---
 
 ## 📫 Connect with Me  
-#🔗 [LinkedIn](your-linkedin-url) | 💻 [GitHub](your-github-url) | ✉️ [Email](your-email)  
+#🔗[LinkedIn] https://www.linkedin.com/in/joshuavirgil37 | 💻 [[GitHub] (https://github.com/JoshuaVirgil777) | ✉️ joshua.virgil.nz.2701@gmail.com
 
 ---
 
